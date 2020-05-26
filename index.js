@@ -1,6 +1,6 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 function whipser(string) {
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
